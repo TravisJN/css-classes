@@ -9,8 +9,28 @@ p {
 	padding: 10px;
 }
 
+.logo {
+	height: 80%;
+	width: 20%;
+	border: 1px solid black;
+	margin: 5px;
+	margin-right: 0px;
+	background-color: pink;
+	float: left;
+}
+
+.nav {
+	height: 80%;
+	width: 77%;
+	border: 1px solid black;
+	margin: 5px;
+	margin-left: 0px;
+	background-color: red;
+	float: left;
+}
+
 .header {
-	height: 50px;	
+	height: 60px;	
 	background-color: orange;
 }
 
